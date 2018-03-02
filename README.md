@@ -1,6 +1,6 @@
 # atom-outlet-manager
 
-Uniformly manage outlets in workspace from keyboard.
+Uniformly manage outlets in workspace from keyboard.  
 The outlet is special TextEditor created by [atom-outlet][atom-outlet] library.
 
 ```coffeescript
