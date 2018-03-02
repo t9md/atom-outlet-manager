@@ -1,0 +1,29 @@
+{
+  "name": "outlet-manager",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "Manage outlets uniformly from keyboard",
+  "repository": "https://github.com/t9md/atom-outlet-manager",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.24.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.11.1",
+    "standard": "^11.0.0"
+  },
+  "scripts": {
+    "test": "apm test",
+    "lint": "standard lib/*.js lib/**/*.js spec/*.js"
+  },
+  "standard": {
+    "env": {
+      "atomtest": true,
+      "browser": true,
+      "jasmine": true,
+      "node": true
+    },
+    "globals": ["atom"],
+    "ignore": ["spec/fixtures/*"]
+  }
+}
