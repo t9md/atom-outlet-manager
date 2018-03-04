@@ -5,6 +5,10 @@ The outlet is special TextEditor created by [atom-outlet][atom-outlet] library.
 
 [atom-outlet]: https://github.com/t9md/atom-outlet
 
+# Development status
+
+Alpha.
+Now actively developing, experimenting ideas.
 
 # What's this?
 
