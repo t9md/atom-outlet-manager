@@ -2,7 +2,7 @@
   "name": "outlet-manager",
   "main": "./lib/main",
   "version": "0.0.0",
-  "description": "Manage outlets uniformly from keyboard",
+  "description": "Manage outlets uniformly via keyboard",
   "repository": "https://github.com/t9md/atom-outlet-manager",
   "license": "MIT",
   "engines": {
