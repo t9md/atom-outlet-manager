@@ -14,8 +14,9 @@ Provide command to manager outlets in workspace uniformly via keyboard.
 
 - Just instance of TextEditor with special attribute and methods.
 - Outlet can easily
-  - `open`(dock/center/at adjacent-pane),
+  - `open`(dock, center at adjacent-pane),
   - `toggle`
+  - `hide`
   - `relocate`: relocate from `bottom` dock to `center` or vise versa.
 
 ### Which package create outlet?
