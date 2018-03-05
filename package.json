@@ -29,5 +29,6 @@
     "ignore": [
       "spec/fixtures/*"
     ]
-  }
+  },
+  "dependencies": {}
 }
