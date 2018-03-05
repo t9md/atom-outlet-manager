@@ -47,7 +47,7 @@ Without requiring pkg specific command/keymap.
   'cmd-w': 'core:close'
 
 'atom-workspace.has-outlet atom-text-editor.vim-mode-plus.normal-mode':
-  'cmd-f': 'outlet:focus'
+  'cmd-f': 'outlet:toggle-focus'
 
 'atom-workspace.has-visible-outlet atom-text-editor.vim-mode-plus.normal-mode':
   'ctrl-g': 'outlet:close'
